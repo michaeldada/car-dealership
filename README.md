@@ -12,7 +12,7 @@ _This app will allow you to see a list of cars available at your local car deale
 
 * _Navigate to project directory in PowerShell_
 * _Run dnu restore_
-* _Run dnx cars.cs_
+* _Run dnx kestrel_
 * _Navigate to localhost:5004 in your browser_
 * _Profit!_
 
